@@ -36,24 +36,14 @@
             "id": "010270ef9781727e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Stage_AIX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Stage_AIX"
+              "icon": "diff",
+              "title": "Diff: app.json"
             }
           },
           {
@@ -144,9 +134,9 @@
               "state": {
                 "file": "decoding_inner_speech_M2R_2025_2026.pdf",
                 "page": 1,
-                "left": -11,
-                "top": 726,
-                "zoom": 1.3088235294117647
+                "left": -14,
+                "top": 738,
+                "zoom": 1.0894607843137254
               },
               "icon": "lucide-file-text",
               "title": "decoding_inner_speech_M2R_2025_2026"
@@ -314,8 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,10 +324,10 @@
   },
   "active": "010270ef9781727e",
   "lastOpenFiles": [
+    "Stage_AIX.md",
     "README.md",
     "decoding_inner_speech_M2R_2025_2026.pdf",
     "Temporal_generalization.pdf",
-    "Stage_AIX.md",
     "Langue.md",
     "Sciences du Language/Subnotes/Expérience de la chambre chinoise.md",
     "Sciences du Language/Subnotes/Recommandations biblio PROD PAROLE.md",
