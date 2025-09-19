@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e46435ef7036c8e4",
+            "id": "9e42d8a254a48991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sciences du Language/Sciences du langage 1.md",
+                "file": "Sciences du Language/Subnotes/Produire la parole.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sciences du langage 1"
+              "title": "Produire la parole"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sciences du Language/Sciences du langage 1.md",
+                "file": "Sciences du Language/Subnotes/Produire la parole.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sciences du langage 1"
+              "title": "Backlinks for Produire la parole"
             }
           },
           {
@@ -194,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "783c7d5c5148e776",
+  "active": "9e42d8a254a48991",
   "lastOpenFiles": [
-    "Sciences du Language/Articles/Barsalou_AnnuRevPsycho2008.pdf",
+    "README.md",
     "Sciences du Language/Sciences du langage 1.md",
+    "Sciences du Language/Subnotes/Produire la parole.md",
+    "Sciences du Language/Articles/Barsalou_AnnuRevPsycho2008.pdf",
     "Sciences du Language/Subnotes/Dimension du langage.md",
     "STAGE/AIX/Stage_AIX.md",
     "STAGE/AIX/Temporal_generalization.pdf",
@@ -211,7 +213,6 @@
     "Excalidraw/consonnes articulées.png",
     "Excalidraw/Cordes vocales.png",
     "Pasted image 20250919111348.png",
-    "README.md",
     "Excalidraw/Langue.md",
     "Sciences du Language/Subnotes/Recommandations biblio PROD PAROLE.md",
     "Sciences du Language/Subnotes/Expérience de la chambre chinoise.md",
