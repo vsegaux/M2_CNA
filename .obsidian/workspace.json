@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "7d4344f1d1ae0ecc",
@@ -135,7 +135,7 @@
                 "file": "decoding_inner_speech_M2R_2025_2026.pdf",
                 "page": 1,
                 "left": -14,
-                "top": 738,
+                "top": 745,
                 "zoom": 1.0894607843137254
               },
               "icon": "lucide-file-text",
@@ -322,7 +322,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "010270ef9781727e",
+  "active": "34a11c2adc06d94d",
   "lastOpenFiles": [
     "Stage_AIX.md",
     "README.md",
