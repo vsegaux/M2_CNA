@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6376166487376569",
+        "id": "2adf142cbe3f2464",
         "type": "tabs",
-        "dimension": 40.28150134048257,
         "children": [
           {
-            "id": "3b720897866ad127",
+            "id": "e46435ef7036c8e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Langue.md",
+                "file": "Sciences du Language/Sciences du langage 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,133 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Langue"
-            }
-          },
-          {
-            "id": "010270ef9781727e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
-            }
-          },
-          {
-            "id": "2d8af09064ddc9f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articulateurs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Articulateurs"
-            }
-          },
-          {
-            "id": "0762c5684b395ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sciences du Language/Subnotes/Recommandations biblio PROD PAROLE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recommandations biblio PROD PAROLE"
-            }
-          },
-          {
-            "id": "34a11c2adc06d94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sciences du Language/Subnotes/Expérience de la chambre chinoise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Expérience de la chambre chinoise"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "7d4344f1d1ae0ecc",
-        "type": "tabs",
-        "dimension": 59.71849865951743,
-        "children": [
-          {
-            "id": "2028b61e6fbe8c6e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "decoding_inner_speech_M2R_2025_2026.pdf",
-                "page": 1,
-                "left": -14,
-                "top": 745,
-                "zoom": 1.0894607843137254
-              },
-              "icon": "lucide-file-text",
-              "title": "decoding_inner_speech_M2R_2025_2026"
-            }
-          },
-          {
-            "id": "79fe6c50a924bef8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Temporal_generalization.pdf",
-                "page": 5,
-                "left": -16,
-                "top": 467,
-                "zoom": 1.0277110421161457
-              },
-              "icon": "lucide-file-text",
-              "title": "Temporal_generalization"
+              "title": "Sciences du langage 1"
             }
           }
         ]
@@ -215,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "6f087458462ab114",
@@ -232,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodo Mesures/1. Rappel Méthode Expe.md",
+                "file": "Sciences du Language/Sciences du langage 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Rappel Méthode Expe"
+              "title": "Backlinks for Sciences du langage 1"
             }
           },
           {
@@ -322,34 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34a11c2adc06d94d",
+  "active": "783c7d5c5148e776",
   "lastOpenFiles": [
-    "Stage_AIX.md",
-    "README.md",
-    "decoding_inner_speech_M2R_2025_2026.pdf",
-    "Temporal_generalization.pdf",
-    "Langue.md",
-    "Sciences du Language/Subnotes/Expérience de la chambre chinoise.md",
-    "Sciences du Language/Subnotes/Recommandations biblio PROD PAROLE.md",
-    "Articulateurs.md",
-    "Sciences du Language/Supports/I.2-SonsLanguesMonde_2024-25.pdf",
-    "Sciences du Language/Sciences du langage 1.md",
-    "Pasted image 20250919122924.png",
-    "Sciences du Language/Supports/I.1-PhysiologieProduction_2024-25.pdf",
-    "Pasted image 20250919111706.png",
-    "Pasted image 20250919111348.png",
-    "Sciences du Language/Supports/0-Intro.pdf",
     "Sciences du Language/Articles/Barsalou_AnnuRevPsycho2008.pdf",
+    "Sciences du Language/Sciences du langage 1.md",
+    "Sciences du Language/Subnotes/Dimension du langage.md",
+    "STAGE/AIX/Stage_AIX.md",
+    "STAGE/AIX/Temporal_generalization.pdf",
+    "Sciences du Language/Subnotes/Articulateurs.md",
+    "STAGE/AIX",
+    "STAGE",
+    "STAGE/AIX/decoding_inner_speech_M2R_2025_2026.pdf",
+    "Psy Cog CNA/Psy Cog 1.md",
+    "Excalidraw/Univers des modèles.md",
     "Excalidraw/Drawing 2025-09-19 10.48.29.excalidraw.md",
+    "Excalidraw/consonnes articulées.png",
+    "Excalidraw/Cordes vocales.png",
+    "Pasted image 20250919111348.png",
+    "README.md",
+    "Excalidraw/Langue.md",
+    "Sciences du Language/Subnotes/Recommandations biblio PROD PAROLE.md",
+    "Sciences du Language/Subnotes/Expérience de la chambre chinoise.md",
+    "Sciences du Language/Supports/I.2-SonsLanguesMonde_2024-25.pdf",
+    "Sciences du Language/Supports/I.1-PhysiologieProduction_2024-25.pdf",
+    "Sciences du Language/Supports/0-Intro.pdf",
     "Psy Cog CNA/Subnotes/Behaviourisme.md",
     "Psy Cog CNA/Subnotes/Exemple de la tâche du rappel sériel à court terme.md",
     "Psy Cog CNA/Subnotes/Niveaux de compréhension.md",
-    "Psy Cog CNA/Psy Cog 1.md",
-    "Excalidraw/Univers des modèles.md",
     "Sciences du Language/Supports/I.3-Acoustique.pdf",
     "Psy Cog CNA/Supports/2024-2025-Rousset-Partie-1.pdf",
-    "Sciences du Language/Articles/AlibaliEtAl_JMemLang2001.pdf",
-    "Sciences du Language/Articles/SkipperVanWassenhoveNusbaumSmall_2007.pdf",
     "Methodo Mesures/Rappel Méthodologiques.md",
     "Methodo Mesures/1. Rappel Méthode Expe.md",
     "Methodo Mesures/Devoirs 18-09.md",
@@ -363,8 +236,6 @@
     "Untitled 1.md",
     "Methodo Mesures/Subnotes/Variables Contrôles (VC).md",
     "Methodo Mesures/Subnotes/Variables Indépendantes (VI).md",
-    "Methodo Mesures/Subnotes/Variables Dépendantes (VD).md",
-    "Methodo Mesures/Subnotes/Plan d'expérience.md",
     "Pasted Image 20250918184714_923.png",
     "Methodo Mesures/Untitled.canvas"
   ]
